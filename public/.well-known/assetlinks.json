@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.metamask",
+      "sha256_cert_fingerprints": [
+        "AE:5E:76:38:68:7A:8E:D2:5F:DC:B2:BD:68:53:75:A6:29:EB:76:F2:68:4D:AE:62:3D:E6:D4:4B:9F:2E:D0:4B:7C"
+      ]
+    }
+  }
+]

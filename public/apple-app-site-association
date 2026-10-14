@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["8338326488.com.metamask.Mask"],
+        "paths": ["/dapp/*", "/link/*", "/*"]
+      }
+    ]
+  }
+}

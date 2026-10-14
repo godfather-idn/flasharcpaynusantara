@@ -1,0 +1,31 @@
+{
+  "name": "flasharcpay-nusantara",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@circle-fin/adapter-viem-v2": "^1.0.0",
+    "@circle-fin/app-kit": "^1.0.0",
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "lucide-vue-next": "^0.350.0",
+    "nuxt": "^3.11.0",
+    "qrcode": "^1.5.3",
+    "viem": "^2.9.0",
+    "vue": "^3.4.0",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^3.0.2",
+    "@types/qrcode": "^1.5.5",
+    "@zxing/library": "^0.21.0",
+    "typescript": "^5.9.3",
+    "vue-tsc": "^3.3.11"
+  }
+}

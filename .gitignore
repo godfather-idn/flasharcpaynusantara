@@ -30,7 +30,6 @@ contracts/.openzeppelin/
 .env.*.local
 .env.production
 .env.testnet
-.env.example
 contracts/.env
 
 # IDE & Editor
